@@ -4,7 +4,7 @@ print(3 * (4 + 5))
 print(10 % 3)
 
 my_number = 5
-print (my_number)
+print(my_number)
 
 my_number = 5
 print(str(my_number) + " my favourite nuumber")
