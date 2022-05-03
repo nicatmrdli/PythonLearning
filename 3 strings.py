@@ -1,6 +1,6 @@
 phrase = "Nicat Muradli "
 phrase2 = "is super hot "
-print (phrase + phrase2)
+print(phrase + phrase2)
 
 phrase = "Nicat Muradli "
 print(phrase.upper().isupper())
