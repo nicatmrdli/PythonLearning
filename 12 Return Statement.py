@@ -1,6 +1,6 @@
 def cube(num):
     return num*num*num
-# "return" keyword allows python to return information fromm a function.
+# "return" allows python to return information from a function.
 
 print(cube(8))
 # Return statement allows to return the value back to the "caller"
